@@ -1,0 +1,35 @@
+section{
+    margin: 0px;
+}
+.container-fluid{
+    padding: 30px; 
+    background-color: rgb(211, 174, 246);
+    /* margin: 50px; */
+    /* margin-right: 20px; */
+    /* margin-left: 20px; */
+ }
+h2{
+    text-align: center;
+}
+input{
+    width: 330px;
+    height: 80px;
+    color: white;
+    border: 1px solid rgb(178, 106, 245);
+    background-color: rgb(178, 106, 245);
+}
+.row{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+button{
+    border: 1px solid rgb(178, 106, 245);
+    background-color: rgb(178, 106, 245);
+    color: white;
+    height: 80px;
+    width: 80px;
+    /* margin: 5px; */
+    /* padding: 5px; */
+}
